@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChristmasCard</string>
+    <string name="label_loading_title">Loading</string>
+    <string name="help">Help</string>
+    <string name="helpContent">Here should be something useful</string>
+    <string name="about">About</string>
+</resources>
